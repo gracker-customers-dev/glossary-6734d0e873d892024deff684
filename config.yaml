@@ -1,0 +1,55 @@
+projectName: Non-Human Identities (NHIs)
+jsonFilePath: ./input.json
+baseUrl: https://nhimg.org
+portalHeading: Non-Human Identity Management Group
+portalDescription: >-
+  Secure your assets from cyber/insider threats with guidance and insights on
+  managing Non-Human Identities.
+portalTitle: Non-Human Identity Management Portal
+searchPlaceholder: Search for NHI resources...
+useAlphabetsCategory: true
+homeLink: https://nhimg.org/
+logoLink: https://nhimg.org/
+ctaText: Get Started
+aboutLink: https://nhimg.org/about
+productsLink: https://nhimg.org/products
+logoImgUrl: https://nhimg.org/logo.png
+ctaLink: https://nhimg.org/general-equiry
+copyrightText: © 2024 Non-Human Identity Management Group
+faviconUrl: https://nhimg.org/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/groups/13038250/
+  - platform: YouTube
+    url: https://www.youtube.com/@NonHumanIdentityManagement
+theme:
+  primaryColor: '#000000'
+  secondaryColor: '#ffffff'
+  backgroundColor: '#f0f0f0'
+  textColor: '#333333'
+  accentColor: '#007bff'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Helvetica
+    weights:
+      - 500
+      - 600
+      - 700
